@@ -1,4 +1,4 @@
 # Git4
-a=e  Team Teem/Meet  
-i=o  Is   Os/So
-u=r  Shout  Shirt
+a=e  Team Meet  
+i=o  Is   So
+u=r  Horse House
